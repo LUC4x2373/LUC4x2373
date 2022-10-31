@@ -1,4 +1,4 @@
-- 👋 Olá meu nome é @LUC4x2373
+- 👋 Olá meu nome é Lucas Vinicius
 - 👍 meu email de contato é lucas.viniciusruizdos.santos@escola.pr.gov.br
 - 👀 Estou interessado em aprender a progamar em novas linguagens.
 - 🌱 Estou aprendendo a programar recentemente em linguagem de JavaScript e Stratch
